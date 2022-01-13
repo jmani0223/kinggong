@@ -22,7 +22,11 @@ please follow Camel or Pascal Case
 
 ### Guide
 
+
 ![file tree](./img/tree.PNG){: width="100" height="100"}
+
+
+<center><img src="./img/tree.PNG" width="300" height="300"></center>
 
 + kinggong.activity
   + create kotlin file
