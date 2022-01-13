@@ -21,6 +21,9 @@ please follow Camel or Pascal Case
 [reference](https://lcw126.tistory.com/260)
 
 ### Guide
+
+![file tree](./img/tree.PNG){: width="100" height="100"}
+
 + kinggong.activity
   + create kotlin file
   + kinggong.activity.000Activity.kt
@@ -31,5 +34,4 @@ please follow Camel or Pascal Case
 + values
   + colors, strings, themes config files
 + AndroidMainifest.xml
-  + Link all activity files in here 
-![file tree](./img/tree.PNG)
+  + Link all activity files in here
