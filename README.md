@@ -32,4 +32,4 @@ please follow Camel or Pascal Case
   + colors, strings, themes config files
 + AndroidMainifest.xml
   + Link all activity files in here 
-![file tree](./img/tree.png)
+![file tree](./img/tree.PNG)
